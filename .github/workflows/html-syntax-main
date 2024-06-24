@@ -1,0 +1,53 @@
+<html>
+  
+</html>
+
+Code: User-root
+Code: C.user
+Code,name,user,domain allow -->trust code X.X
+
+Print.serv
+<html>
+</html>
+
+in.t py
+
+int () Code.Code <html></html>
+
+perl-java-css -- tt -t
+
+export default {class-import
+  template: `
+    <button 
+      :class="{
+        'border rounded px-5 py-2 disabled:cursor-not-allowed' : true,
+        'bg-blue-600 hover:bg-blue-700' : type == 'primary',
+        'bg-purple-200 hover:bg-purple-400' : type == 'secondary',
+        'bg-gray-200 hover:bg-gray-400' : type == 'muted',
+        'is-loading' : processing
+      }" 
+      :disabled="processing"
+    >
+      <slot />
+    </button>
+  `,
+
+  props: {
+    type: { // name of the prop
+      type: String, // the real type of the prop..
+      default: 'primary'
+    },
+    
+    processing: {
+      type: Boolean,
+      default: false
+    }
+ class-domain-- },
+};--class
+
+Subnet --Mask
+
+192.168.0.1:192.168.0.1
+
+ Net: Sub/24 192/168/1/1//24
+ 
