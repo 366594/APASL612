@@ -1,0 +1,15 @@
+text = <<"HERE" This Is A Multiline String HERE
+text = <<"HERE" This Is A Multiline String HERE  text = <<"HERE" This Is A Multiline String HERE
+
+  text = <<"HERE" This Is A Multiline String HERE
+      text = <<"HERE" This Is A Multiline String HERE
+
+        text = <<"HERE" This Is A Multiline String HERE
+
+
+  text = <<"HERE" This Is A Multiline String HERE
+
+
+        text = <<"HERE" This Is A Multiline String HERE ''
+''
+c.//
