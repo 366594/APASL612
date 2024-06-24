@@ -1,0 +1,59 @@
+var myString = (function () {/*
+   <div id="someId">
+     some content<br />
+     <a href="#someRef">someRefTxt</a>
+    </div>        
+*/}).toString().match(/[^]*\/\*([^]*)\*\/\}$/)[1];
+
+foo-bar <string> <html>
+
+head-to-init.mc
+
+var myString = 
+       '<div id="someId"> \
+some content<br /> \
+<a href="#someRef">someRefTxt</a> \
+</div>';
+
+'<div id="someId"> \ '<div id="someId"> \
+'<div id="someId"> \'<div id="someId"> \'<div id="someId"> \
+'<div id="someId"> \'<div id="someId"> \'<div id="someId"> \'<div id="someId"> \
+'<div id="someId"> \'<div id="someId"> \'<div id="someId"> \'<div id="someId"> \'<div id="someId"> \'<div id="someId"> \
+'<div id="someId"> \'<div id="someId"> \'<div id="someId"> \'<div id="someId"> \'<div id="someId"> \'<div id="someId"> \'<div id="someId"> \'<div id="someId"> \
+'<div id="someId"> \'<div id="someId"> \'<div id="someId"> \'<div id="someId"> \'<div id="someId"> \'<div id="someId"> \'<div id="someId"> \'<div id="someId"> \'<div id="someId"> \'<div id="someId"> \
+'<div id="someId"> \'<div id="someId"> \'<div id="someId"> \'<div id="someId"> \'<div id="someId"> \'<div id="someId"> \'<div id="someId"> \'<div id="someId"> \'<div id="someId"> \'<div id="someId"> \'<div id="someId"> \'<div id="someId"> \
+
+int () ::cp-IP MaskSubnet
+
+var myString = 
+   ['<div id="someId">',
+    'some content<br />',
+    '<a href="#someRef">someRefTxt</a>',
+    '</div>'
+   ].join('\n');
+
+   var myString = 
+   ['<div id="someId">',
+    'some content<br />',
+    '<a href="#someRef">someRefTxt</a>',
+    '</div>'
+   ].join('\n');        var myString = 
+   ['<div id="someId">',
+    'some content<br />',
+    '<a href="#someRef">someRefTxt</a>',
+    '</div>'
+   ].join('\n');
+
+   let str = `This is a text
+    with multiple lines.
+    Escapes are interpreted,
+    \n is a newline.`;
+let str = String.raw`This is a text
+    with multiple lines.
+    Escapes are not interpreted,
+    \n is not a newline.`;
+
+    -end-to-next-page- 
+
+    -page-
+    html--css-code0deb..
